@@ -2,8 +2,7 @@
 
 # Hi, I'm Md Majid Hussain 👋
 
-**MSc Physics (IIEST Shibpur)** | Durgapur, WB | +91-8389806708  
-*Quantum Hall Effect • Nuclear Physics • Optics & Data Analysis* [file:46]
+**MSc Physics (IIEST Shibpur)** | Howrah, WB | +91-8389806708  
 
 [![GitHub followers](https://img.shields.io/github/followers/2024phm030.md?style=social)](https://github.com/2024phm030.md)
 [![Email](https://img.shields.io/badge/Email-2024phm030.md@students.iiests.ac.in-D14836?logo=gmail&logoColor=white)](mailto:2024phm030.md@students.iiests.ac.in)
@@ -11,8 +10,8 @@
 </div>
 
 ## 🎓 **Education**
-- **MSc Physics** (2024-2026) | IIEST Shibpur | CGPA 7.09 | Nuclear Physics, Quantum Mechanics [file:46]
-- **BSc Physics** (2019-2022) | BBMKU Dhanbad | CGPA 7.78 | IIT-JAM AIR 1247 [file:46]
+- **MSc Physics** (2024-2026) | IIEST Shibpur | CGPA 7.49 
+- **BSc Physics** (2019-2022) | BBMKU Dhanbad | CGPA 7.78 
 
 ## 🔬 **Key Projects**
 | Project | Highlights | Tools |
