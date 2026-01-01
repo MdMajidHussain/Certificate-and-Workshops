@@ -1,51 +1,38 @@
 <div align="center">
 
-# Hi, I'm [Your Full Name] 👋
+# Hi, I'm Md Majid Hussain 👋
 
-**MSc Physics Student**  
-*Durgapur, West Bengal, India*  
-*Quantum Hall Effect • Nuclear Physics • Data Analysis*
+**MSc Physics (IIEST Shibpur)** | Durgapur, WB | +91-8389806708  
+*Quantum Hall Effect • Nuclear Physics • Optics & Data Analysis* [file:46]
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Followers&style=social)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/yourprofile)
+[![GitHub followers](https://img.shields.io/github/followers/2024phm030.md?style=social)](https://github.com/2024phm030.md)
+[![Email](https://img.shields.io/badge/Email-2024phm030.md@students.iiests.ac.in-D14836?logo=gmail&logoColor=white)](mailto:2024phm030.md@students.iiests.ac.in)
 
 </div>
 
-## 🔭 **Current Focus**
-- Researching Integer & Fractional Quantum Hall Effects (IQHE/FQHE)
-- Nuclear isotope identification and spectral analysis using Origin
-- Python for 3D animations and data visualization
+## 🎓 **Education**
+- **MSc Physics** (2024-2026) | IIEST Shibpur | CGPA 7.09 | Nuclear Physics, Quantum Mechanics [file:46]
+- **BSc Physics** (2019-2022) | BBMKU Dhanbad | CGPA 7.78 | IIT-JAM AIR 1247 [file:46]
 
-## 🌱 **Learning & Aspirations**
-- CERN Openlab Summer Student Programme
-- LIGO-India Collaboration opportunities
-- Advanced LaTeX for scientific papers
+## 🔬 **Key Projects**
+| Project | Highlights | Tools |
+|---------|------------|-------|
+| **Quantum Hall Effect** (IIEST) | IQHE/FQHE, Landau levels, edge states σ_xy = ν e²/h | LaTeX, Theory [file:46] |
+| **ISOL Optimization** (JINR Dubna) | Volatile isotopes from heavy ions, MASHA upgrade | OriginPro, Cyclotron [file:46] |
+| **Optical Trapping** (IGCAR) | Gradient traps, stiffness vs power (5-25 kNm) | Python, Video Analysis [file:46] |
 
-## 💼 **Experience**
-- **Research Intern**, Universidad de Tarapacá (Dec 2024 – Present)
-- ISRO Online Courses (Space Science & Data Processing)
-- BSK College BSc Physics (Distinction)
+## 🛠️ **Skills & Tools** [file:46]
+- **Programming**: Python, C++, MATLAB, ROOT, LaTeX
+- **Analysis**: Origin, Excel, Geant4, Curve Fitting
+- **Achievements**: 1st Prize STIPAC-2025 Quiz, NISER Offer
 
-## 📌 **Featured Projects**
-| Project | Description | Tech Stack | Link |
-|---------|-------------|------------|------|
-| [Quantum Hall Simulation](https://github.com/yourusername/quantum-hall-project) | IQHE/FQHE edge state modeling & plots | Python, Matplotlib, Origin | [![Repo](https://github.com/favicon.ico)](https://github.com/yourusername/quantum-hall-project) |
-| [Nuclear Decay Analysis](https://github.com/yourusername/nuclear-analysis) | Isotope identification from alpha spectra | Origin 2025, Python | [![Repo](https://github.com/favicon.ico)](https://github.com/yourusername/nuclear-analysis) |
-| [3D Physics Animations](https://github.com/yourusername/physics-animations) | Wave-particle duality visuals | Python, Blender API | [![Repo](https://github.com/favicon.ico)](https://github.com/yourusername/physics-animations) |
-| [Certificates](https://github.com/yourusername/physics-certificates) | ISRO & workshop proofs | PDFs, Markdown | [![Repo](https://github.com/favicon.ico)](https://github.com/yourusername/physics-certificates) |
+## 📌 **Pinnable Repos** (Create These Next)
+- [Quantum Hall](https://github.com/2024phm030.md/quantum-hall) – Upload term paper
+- [Nuclear ISOL](https://github.com/2024phm030.md/nuclear-isol) – Origin data/files
+- [IGCAR Optics](https://github.com/2024phm030.md/optical-trapping) – Scripts/plots
+- [Certificates](https://github.com/2024phm030.md/certificates) – ISRO/LIGO PDFs
 
-## 📫 **Connect**
-- 📧 Email: your.email@example.com
-- 🔗 [Resume](https://github.com/yourusername/yourusername/raw/main/Resume.pdf)
-- 🐦 [Twitter/X](https://x.com/yourhandle) (optional)
-- 📄 [LinkedIn](https://linkedin.com/in/yourprofile)
+## 📄 **Resume** & Contact
+[![Download Resume](https://img.shields.io/badge/Download-RESUME.pdf-brightgreen)](RESUME.pdf) [file:46]
 
-## 💻 **Skills Snapshot**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-009FA5?style=flat&logo=latex&logoColor=white)
-![Origin](https://img.shields.io/badge/Origin-2025-orange)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
----
-*Last updated: Jan 2026 | Open to collaborations & internships 🚀*
-
+*Open to CERN/LIGO Internships | Updated Jan 2026 🚀*
