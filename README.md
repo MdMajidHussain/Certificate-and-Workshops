@@ -10,15 +10,15 @@
 </div>
 
 ## 🎓 **Education**
-- **MSc Physics** (2024-2026) | IIEST Shibpur | CGPA 7.49 
+- **MSc Physics** (2024-2026) | IIEST Shibpur | CGPA 7.49 upto 3rd semester
 - **BSc Physics** (2019-2022) | BBMKU Dhanbad | CGPA 7.78 
 
 ## 🔬 **Key Projects**
 | Project | Highlights | Tools |
 |---------|------------|-------|
-| **Quantum Hall Effect** (IIEST) | IQHE/FQHE, Landau levels, edge states σ_xy = ν e²/h | LaTeX, Theory [file:46] |
-| **ISOL Optimization** (JINR Dubna) | Volatile isotopes from heavy ions, MASHA upgrade | OriginPro, Cyclotron [file:46] |
-| **Optical Trapping** (IGCAR) | Gradient traps, stiffness vs power (5-25 kNm) | Python, Video Analysis [file:46] |
+| **Quantum Hall Effect** (IIEST) | IQHE/FQHE, Landau levels, edge states σ_xy = ν e²/h 
+| **ISOL Optimization** (JINR Dubna) | Volatile isotopes from heavy ions, MASHA upgrade|
+| **Optical Trapping** (IGCAR) | Gradient traps, stiffness vs power (5-25 kNm) 
 
 ## 🛠️ **Skills & Tools** [file:46]
 - **Programming**: Python, C++, MATLAB, ROOT, LaTeX
